@@ -1,4 +1,4 @@
-<h1>Hello</h1>
+<p align="center"><img src="https://github.com/Kaz040/Kaz040/blob/main/OT%20(1).png"></p>
 <h1 align="center">Hi, I'm Kazeem Oladipupo</h1>
 <h3 align="center">A passionate Industrial Automation Integrator</h3>
 
