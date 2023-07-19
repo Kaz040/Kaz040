@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaz040&label=Profile%20views&color=0e75b6&style=flat" alt="kaz040" /> </p>
 
-- 🌱 I’m currently learning **CD/CI tools like docker and kubernetes**
-
 - 👯 I’m looking to collaborate on **Digital Twin model concepts and Implementation**
 
 - 🤝 I’m looking for help with **industrial edge system integration**
